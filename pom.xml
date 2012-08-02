@@ -23,7 +23,6 @@
         <module>drone</module>
         <module>testng</module>
         <module>junit</module>
-     <!--    <module>ftest-testng</module> -->
         <module>ftest-junit</module> 
     </modules>
 
